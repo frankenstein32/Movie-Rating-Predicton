@@ -24,6 +24,6 @@ Prediction is made my comparing the prediction of Validation data and the true l
  With this command the clean_review file will clean the text present in the imdb_trainX.txt and write into the x_train.txt
  
  - Do the same cleaning for the imdb_testX.txt file too.
- - Now simply run the moview prediction.py file
+ - Now simply run the movie_prediction.py file
  - It will print the training accuracy and Testing accuracy
  - Keep the files and code in the same directory otherwise you need to change the path for reading and writing the files.
