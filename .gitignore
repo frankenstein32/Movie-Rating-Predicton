@@ -4,3 +4,5 @@ saved_model.pkl
 __pycache__/
 
 project_env/
+
+.nltk_packages
