@@ -1,0 +1,6 @@
+saved_model.pkl
+.vscode/
+
+__pycache__/
+
+project_env/
